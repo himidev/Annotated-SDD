@@ -1,2 +1,6 @@
 # Stanford_Drone_Dataset
-This dataset used by visapp2019.
+If you find this code useful in your research then please cite.
+
+```
+AAA
+```
